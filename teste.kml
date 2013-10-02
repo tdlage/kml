@@ -21,7 +21,11 @@
       <styleUrl>#blueLine</styleUrl>
       <LineString>
               <altitudeMode>relative</altitudeMode>
-              <coordinates>-22.9838764025,-43.3571473834,0 -22.9838755643,-43.3571440306,0 -22.9838800905,-43.3571430248,0</coordinates>
+              <coordinates>
+                     -22.9838764025,-43.3571473834,0 
+                     -22.9838755643,-43.3571440306,0 
+                     -22.9838800905,-43.3571430248,0
+              </coordinates>
       </LineString>
       </Placemark>
     
