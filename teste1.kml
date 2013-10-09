@@ -4,7 +4,7 @@
         <description>photos, updates once you stop moving the map.</description>
         <name>Panoramio</name>
         <Link>
-            <href>https://raw.github.com/tdlage/kml/master/teste.kml</href>
+            <href>http://localhost:8080/op-spring/kml</href>
             <viewRefreshMode>onStop</viewRefreshMode>
             <viewRefreshTime>1</viewRefreshTime>
         </Link>
