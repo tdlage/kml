@@ -13,10 +13,7 @@
          the center of your screen and return a placemark.</description>
       <refreshVisibility>0</refreshVisibility>
       <Link>
-        <href>http://200.150.6.54:8080/op-spring/kml</href>
-        <refreshInterval>2</refreshInterval>
-        <viewRefreshMode>onStop</viewRefreshMode>
-        <viewRefreshTime>1</viewRefreshTime>        
+        <href>http://200.150.6.54:8080/op-spring/gdis.kml</href>
       </Link>
     </NetworkLink>
   </Folder>
