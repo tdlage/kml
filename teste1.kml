@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.0">
     <NetworkLink>
-        <description>Rede do G-DIS.</description>
+        <description>Rede da Light.</description>
         <name>G-DIS</name>
         <Link>
             <href>http://200.150.6.54:8080/op-spring/kml</href>
+            <refreshMode>onInterval</refreshMode>
+            <refreshInterval>5</refreshInterval>
             <viewRefreshMode>onStop</viewRefreshMode>
             <viewRefreshTime>1</viewRefreshTime>
         </Link>
